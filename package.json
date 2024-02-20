@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npm run build"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.17",
     "css": "^3.0.0",
