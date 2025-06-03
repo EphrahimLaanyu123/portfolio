@@ -28,8 +28,8 @@ import {
   import meta from "../assets/company/chatwave.png";
   import logo from "../assets/bff3254df1cf22ed74923aaa65bc2a08.jpg";
   import carrent from "../assets/Screenshot from 2024-02-20 08-44-38.png";
-  import jobit from "../assets/Screenshot from 2024-02-20 08-57-21.png";
-  import tripguide from "../assets/Screenshot from 2024-02-20 09-22-04.png";
+  import jobit from "../assets/Screenshot from 2025-06-03 13-08-54.png";
+  import tripguide from "../assets/Screenshot from 2025-06-03 12-48-49.png";
   
   export const navLinks = [
     {
@@ -226,37 +226,37 @@ import {
       source_code_link: "https://github.com/arnold-aswan/project-tracker-frontend",
     },
     {
-      name: "ChatWave",
+      name: "Team Task Manager",
       description:
-        "Web application that enables users to have a chat.note:Currently under maintainance",
+        "Web application that enables teams to collaborate efficiently in a centralized system.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "tailwind",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "vanilla css",
           color: "pink-text-gradient",
         },
         {
-          name: "flask",
+          name: "psotgresql",
           color: "pink-text-gradient",
         },
         {
-          name: "socetio",
+          name: "supabase",
           color: "green-text-gradient",
         },
       ],
 
       image: jobit,
-      source_code_link: "https://github.com/EphrahimLaanyu123/Chatwave-project",
+      source_code_link: "https://github.com/EphrahimLaanyu123/project.git",
     },
     {
-      name: "Portfolio",
+      name: "Ndoto Forest",
       description:
         "A comprehensive look on my services and how my clients to easily contact.",
       tags: [
@@ -269,12 +269,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "three",
+          name: "supabase",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/EphrahimLaanyu123/portfolio",
+      source_code_link: "https://ndotoforestcco.org/",
     },
   ];
   
