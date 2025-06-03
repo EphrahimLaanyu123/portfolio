@@ -248,7 +248,7 @@ import {
         },
         {
           name: "supabase",
-          color: "green-text-gradient",
+          color: "green-text-gradient.",
         },
       ],
 
